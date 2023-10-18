@@ -20,6 +20,11 @@ public class Preciodelasbebidas {
                 System.out.println("Seleccionaste  " + bebida);
                 System.out.println("PRECIO: 6bs");
                 break;
+// Parte de Liz Mariela Perez Gervacio                        
+            case "pepsi":
+                System.out.println("Seleccionaste " + bebida);
+                System.out.println("PRECIO: 5bs");
+                break;
         }  
     }
 }
