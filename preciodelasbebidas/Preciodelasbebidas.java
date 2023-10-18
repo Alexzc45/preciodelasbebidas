@@ -12,6 +12,7 @@ public class Preciodelasbebidas {
         System.out.println(" -pepsi");
         System.out.println(" -sprite");
         System.out.println(" -fanta");
+        System.out.println(" -blue label");
         System.out.println("ESCRIBE LA BEBIDA QUE DESEAS ADQUIRIR");
         String bebida = sc.nextLine();
 
