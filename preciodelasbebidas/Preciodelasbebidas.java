@@ -25,6 +25,11 @@ public class Preciodelasbebidas {
                 System.out.println("Seleccionaste " + bebida);
                 System.out.println("PRECIO: 5bs");
                 break;
+//  Parte de Anahi Belen Quispe Mamani                      
+            case "sprite":
+                System.out.println("Seleccionaste " + bebida);
+                System.out.println("PRECIO: 5bs");
+                break;
 // Parte de Damian Alain Oyola Gutiérrez               
             case "blue label":
                 System.out.println("seleccionaste "+bebida);
