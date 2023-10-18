@@ -30,6 +30,11 @@ public class Preciodelasbebidas {
                 System.out.println("Seleccionaste " + bebida);
                 System.out.println("PRECIO: 5bs");
                 break;
+// parte de Jose Gabriel Palacios Arizana                      
+            case "fanta":
+                System.out.println("Seleccionaste " + bebida);
+                System.out.println("PRECIO: 6bs");
+                break;
 // Parte de Damian Alain Oyola Gutiérrez               
             case "blue label":
                 System.out.println("seleccionaste "+bebida);
