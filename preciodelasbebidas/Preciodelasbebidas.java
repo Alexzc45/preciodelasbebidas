@@ -40,6 +40,7 @@ public class Preciodelasbebidas {
             case "blue label":
                 System.out.println("seleccionaste "+bebida);
                 System.out.println("PRECIO: 400bs");
+                break;
                    
             default:
                 System.out.println("Esa bebida no esta disponible");
